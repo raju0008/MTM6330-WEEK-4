@@ -1,0 +1,23 @@
+{
+  "name": "mtm6330-week-3",
+  "version": "1.0.0",
+  "description": "gulp and sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raju0008/MTM6330-WEEK-3.git"
+  },
+  "author": "christo Raju\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raju0008/MTM6330-WEEK-3/issues"
+  },
+  "homepage": "https://github.com/raju0008/MTM6330-WEEK-3#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
